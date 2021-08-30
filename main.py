@@ -1,4 +1,5 @@
 import PIL.Image
+
 ASCII_CHARS = ["@","#","S","%","?","*","+",";",":",",","."]
 patch = input("Ruta de la imagen a dibujar: ")
 try:
